@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="number1">Number 1</string>
+    <string name="number2">Number 2</string>
+    <string name="opensecond">Ok</string>
+    <string name="numbers1">Number 1</string>
+    <string name="numbers2">Number 2</string>
+    <string name="add">+</string>
+    <string name="Substract">-</string>
+    <string name="multiply">*</string>
+    <string name="devide">/</string>
+    <string name="ok">Ok</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padtop">64</dimen>
+    <dimen name="padleft">24</dimen>
+    <dimen name="phleft">10</dimen>
+    <dimen name="top">2</dimen>
+    <dimen name="left">50</dimen>
+    <dimen name="leftpad">40</dimen>
+    <dimen name="paddingleft">30</dimen>
+</resources>
